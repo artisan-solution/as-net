@@ -21,6 +21,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    title: 'L''alchmie '
   - type: features_section
     title: My services
     subtitle: What I do
