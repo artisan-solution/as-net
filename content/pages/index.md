@@ -180,12 +180,12 @@ sections:
       - input_type: text
         name: Nom
         label: Nom
-        default_value: Your name
+        default_value: Votre nom
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Votre adresse e
+        default_value: Votre adresse email
         is_required: true
       - input_type: textarea
         name: message
