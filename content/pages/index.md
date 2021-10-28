@@ -37,9 +37,10 @@ sections:
       - title: Boutique en ligne
         subtitle: 'Solutions ecommerce'
         content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+          Pour que la gestion d'une boutique en ligne soit la plus facile possible,
+          nos solutions sont simples et automatisées, avec par exemple le calcul 
+          des frais d'expédition, la gestion des stocks, ou l'envoi automatique d'email et de SMS.
+          Des solutions adaptées à chaque situation.
         actions:
           - label: Learn More
             url: /about
@@ -51,12 +52,13 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: Technical Content
-        subtitle: 'Your products and services, at scale.'
+      - title: Transformation Digitale
+        subtitle: 'Des solutions qui facilitent la vie pour votre activité.'
         content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+          Solutions téléphonique avec Serveur 
+          Virtuel Interactif (aucun matériel n'est nécessaire); Gestion
+          des bases de données prospects et clients, des devis et factures;
+          Automatisation des tâches bureautiques répétitives.
         actions:
           - label: See Past Work
             url: /faq
@@ -72,8 +74,8 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Trusted by Companies Big and Small
-    subtitle: Who I work with
+    title: Ils nous font confiance
+    subtitle: Nos références
     align: center
     grid_items:
       - image: images/logo-1.svg
@@ -105,11 +107,11 @@ sections:
     grid_gap_vert: medium
   - type: form_section
     content: >-
-      ## Let's talk
+      ## Discutons
 
 
-      If you would like more information about my services and pricing, please
-      contact me using the form below.
+      Contactez-nous pour avoir plus d'informations sur nos services, 
+      ou pour demander un devis.
     content_align: left
     form_position: right
     form_width: fifty
@@ -132,7 +134,7 @@ sections:
         name: message
         label: Message
         default_value: Votre message
-    submit_label: Send Message
+    submit_label: Envoi
     align_vert: top
     padding_top: medium
     padding_bottom: medium
@@ -142,17 +144,17 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Stackbit Personal Theme
-  description: The preview of the Personal theme
+  title: Artisan Solution
+  description: La présentation d'Artisan Solution
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Personal Theme
+      value: Artisan Solution
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: Des solutions digitales pour artisans et TPE/PME
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
