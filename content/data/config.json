@@ -7,7 +7,7 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "title": "Personal",
+        "title": "Header",
         "logo": "/images/Logo_Transparent_Grand (1).png",
         "logo_alt": "Artisan Solution",
         "has_primary_nav": true,
