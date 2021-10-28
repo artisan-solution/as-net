@@ -3,14 +3,14 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Site web, boutique en ligne et toutes solutions digitales pour répondre
+      aux problématiques des artisans, professions libérales et TPE/PME.
     actions:
-      - label: Contact Me
+      - label: Nous contacter
         url: /contact
         style: primary
     image: /images/site-attrayant.svg
-    image_alt: A smiling woman
+    image_alt: Un site moderne
     media_position: right
     media_width: fifty
     align: left
@@ -23,28 +23,19 @@ sections:
     background_image_opacity: 8
     title: Solutions digitales
   - type: features_section
-    title: My services
-    subtitle: What I do
+    title: Nos services
+    subtitle: Ce que nous proposons
     features:
-      - title: Content Creation
-        subtitle: 'Website, blog, social media and more.'
+      - title: Site internet
+        subtitle: 'Site clé en main'
         content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
-        actions:
-          - label: See Writing Samples
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+          Nous créons un site adapté à votre activité, votre entreprise, votre public et vos besoins spécifiques.
         image: images/feature-1.svg
         image_alt: Feature 1 illustration
         media_position: right
         media_width: sixty
-      - title: Online Store Management
-        subtitle: 'Product updates, inventory and pricing.'
+      - title: Boutique en ligne
+        subtitle: 'Solutions ecommerce'
         content: >-
           Managing an online business is a full-time job. I will make sure your
           products look great, sound great, and sell more on your choice of
