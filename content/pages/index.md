@@ -179,13 +179,13 @@ sections:
     form_fields:
       - input_type: text
         name: Nom
-        label: Name
+        label: Nom
         default_value: Your name
         is_required: true
       - input_type: email
         name: email
         label: Email
-        default_value: Your email address
+        default_value: Votre adresse e
         is_required: true
       - input_type: textarea
         name: message
