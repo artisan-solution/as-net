@@ -31,7 +31,7 @@ sections:
         content: >-
           Nous créons un site adapté à votre activité, votre entreprise, votre public et vos besoins spécifiques.
         image: images/feature-1.svg
-        image_alt: Feature 1 illustration
+        image_alt: Site web moderne
         media_position: right
         media_width: sixty
       - title: Boutique en ligne
@@ -41,33 +41,26 @@ sections:
           nos solutions sont simples et automatisées, avec par exemple le calcul 
           des frais d'expédition, la gestion des stocks, ou l'envoi automatique d'email et de SMS.
           Des solutions adaptées à chaque situation.
-        actions:
-          - label: Learn More
-            url: /about
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
         image: images/feature-2.svg
-        image_alt: Feature 2 illustration
+        image_alt: Boutique en ligne
         media_position: right
         media_width: sixty
       - title: Transformation Digitale
         subtitle: 'Des solutions qui facilitent la vie pour votre activité.'
         content: >-
-          Solutions téléphonique avec Serveur 
+          Solutions téléphoniques avec Serveur 
           Virtuel Interactif (aucun matériel n'est nécessaire); Gestion
           des bases de données prospects et clients, des devis et factures;
           Automatisation des tâches bureautiques répétitives.
         actions:
-          - label: See Past Work
+          - label: Voir les questions
             url: /faq
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
         image: images/feature-3.svg
-        image_alt: Feature 3 illustration
+        image_alt: Solutions numériques
         media_position: right
         media_width: sixty
     feature_padding_vert: large
@@ -78,20 +71,20 @@ sections:
     subtitle: Nos références
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
+      - image: images/logo-BeautyIndustrie.jpeg
+        image_alt: Beauty Industrie
         image_align: center
-      - image: images/logo-2.svg
-        image_alt: Logo 2
+      - image: images/logo-FabienneAumont.png
+        image_alt: Cabinet Fabienne Aumont
         image_align: center
-      - image: images/logo-3.svg
-        image_alt: Logo 3
+      - image: images/logo-SoftPeople.png
+        image_alt: Soft People
         image_align: center
-      - image: images/logo-4.svg
-        image_alt: Logo 4
+      - image: images/logo-DN95.svg
+        image_alt: Destruction Nuisibles
         image_align: center
-      - image: images/logo-5.svg
-        image_alt: Logo 5
+      - image: images/logo-DNH.svg
+        image_alt: DigitalMarketing Helper
         image_align: center
       - image: images/logo-6.svg
         image_alt: Logo 6
