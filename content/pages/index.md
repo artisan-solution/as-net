@@ -3,8 +3,7 @@ title: Home
 sections:
   - type: hero_section
     subtitle: >-
-      Site web, boutique en ligne et toutes solutions digitales pour répondre
-      aux problématiques des artisans, professions libérales et TPE/PME.
+      Solutions digitales pour artisans, professions libérales et TPE/PMEs.
     actions:
       - label: Nous contacter
         url: /contact
@@ -24,13 +23,13 @@ sections:
     title: Solutions digitales
   - type: features_section
     title: Nos services
-    subtitle: Ce que nous proposons
+    subtitle: Ce que nous proposons pour répondre aux problématiques des artisans et TPE/PMEs. 
     features:
       - title: Site internet
         subtitle: 'Site clé en main'
         content: >-
-          Nous créons un site adapté à votre activité, votre entreprise, votre public et vos besoins spécifiques.
-        image: images/feature-1.svg
+          Pour vendre ou simplement pour présenter votre activité, nous créons un site adapté à votre activité, votre public et vos besoins spécifiques, et optimisé pour votre référencement.
+        image: images/website-design.png
         image_alt: Site web moderne
         media_position: right
         media_width: sixty
@@ -63,6 +62,21 @@ sections:
         image_alt: Solutions numériques
         media_position: right
         media_width: sixty
+      - title: Marchés Publics
+        subtitle: 'Accédez aux marchés publics.'
+        content: >-
+          Assistance pour trouver et répondre à un appel d'offre de marché public.
+        actions:
+          - label: En savoir plus
+            url: /marches-publics
+            style: primary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+        image: images/feature-1.svg
+        image_alt: Appels d'offres de marché public
+        media_position: right
+        media_width: sixty
     feature_padding_vert: large
     align: center
     background_color: none
@@ -82,18 +96,6 @@ sections:
         image_align: center
       - image: images/logo-DN95.svg
         image_alt: Destruction Nuisibles
-        image_align: center
-      - image: images/logo-DNH.svg
-        image_alt: DigitalMarketing Helper
-        image_align: center
-      - image: images/logo-6.svg
-        image_alt: Logo 6
-        image_align: center
-      - image: images/logo-7.svg
-        image_alt: Logo 7
-        image_align: center
-      - image: images/logo-8.svg
-        image_alt: Logo 8
         image_align: center
     grid_cols: four
     grid_gap_horiz: medium
